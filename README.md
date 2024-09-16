@@ -1,6 +1,6 @@
 # BA-IS5113
 Write by SiCheng Yi
-This Project is use by Tableau
+This Project is create by Tableau
 
 Dataset Description
 This dataset contains annual per capita personal income data for the United States and its states from 1997 to 2015. The data is presented in a tabular format, with each row representing a different state or region, and each column corresponding to a specific year within the given range.
